@@ -47,6 +47,6 @@
       }
     },
     "start": {
-        "cmd": "yarn dev"
+        "cmd": "yarn dev --host"
     }
   }
