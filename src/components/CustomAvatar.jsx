@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import defaultAvatar from '../assets/avatar.svg';
+import defaultAvatar from '../assets/avatar.png';
 import { usePrimaryName } from '../hooks/usePrimaryName';
 
 export const CustomAvatar = ({ size }) => {

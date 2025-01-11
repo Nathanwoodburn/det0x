@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    background-color: #070d49ff;
+    color: #ffb614ff;
+    font-family: "Raleway";
+}
+.font-inter {
+    font-family: "Raleway";
+}
+
+.text-neutral-500 {
+    color: #ffb614ff;
+}
+
+.text-neutral-950 {
+    color: #ffffff;
+}

@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import { ConnectButton as RainbowBtn } from '@rainbow-me/rainbowkit';
 import { Button } from './Button';
-import defaultAvatar from '../../assets/avatar.svg';
+import defaultAvatar from '../../assets/avatar.png';
 import { usePrimaryName } from '../../hooks/usePrimaryName';
 
 const Custom = ({

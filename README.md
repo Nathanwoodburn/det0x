@@ -4,7 +4,7 @@ This is a white label template for [hns.id](https://hns.id). You can fork and mo
 
 ## Customization
 
-Basic customization are in the [`constants.js`](./src/constants.js) file and the [`src/assets`](./src/assets/) folder, more specifically `avatar.png` and `brand.png`, as well as `public/favicon.svg`.
+Basic customization are in the [`constants.js`](./src/constants.js) file and the [`src/assets`](./src/assets/) folder, more specifically `avatar.png` and `brand.png`, as well as `public/favicon.png`.
 
 For more advanced customization, any component can be updated.
 
