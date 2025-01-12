@@ -1,7 +1,5 @@
 {
-    "providers": [
-        "node"
-    ],
+    "providers": [],
     "buildImage": "ghcr.io/railwayapp/nixpacks:ubuntu-1731369831",
     "variables": {
         "CI": "true",
@@ -45,8 +43,5 @@
             ],
             "nixpkgsArchive": "e05605ec414618eab4a7a6aea8b38f6fbbcc8f08"
         }
-    },
-    "start": {
-        "cmd": "yarn dev --host"
     }
 }
