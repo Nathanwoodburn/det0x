@@ -8,7 +8,7 @@ export const SUB_TEXT = 'Decentralized domains for websites, wallets and web3';
 export const SEARCH_PLACEHOLDER = 'Find your .' + TLD;
 export const PAGE_TITLE = HERO_TEXT;
 
-export const TWITTER_HANDLE = 'hns_id';
+export const TWITTER_HANDLE = '9jaCosmos';
 
 // Check https://cloud.walletconnect.com/
 export const WALLET_CONNECT_APP_NAME = 'det0x';

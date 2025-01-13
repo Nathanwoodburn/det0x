@@ -50,7 +50,7 @@ function App() {
             <li>
               <a
                 className="hover:text-neutral-700"
-                href={`https://twitter.com/${TWITTER_HANDLE}`}
+                href={`https://x.com/${TWITTER_HANDLE}`}
                 target="_blank"
               >
                 Twitter
@@ -59,19 +59,28 @@ function App() {
             <li>
               <a
                 className="hover:text-neutral-700"
-                href="https://github.com/namebasehq/wallet-id"
+                href="https://opensea.io/collection/det0xants"
                 target="_blank"
               >
-                GitHub
+                Det0xants on OpenSea
               </a>
             </li>
             <li>
               <a
                 className="hover:text-neutral-700"
-                href={`https://opensea.io/collection/handshake-slds?search[stringTraits][0][name]=TLD&search[stringTraits][0][values][0]=${TLD}`}
+                href="https://www.linkedin.com/company/9ja-cosmos"
                 target="_blank"
               >
-                OpenSea
+                LINKEDIN
+              </a>
+            </li>
+            <li>
+              <a
+                className="hover:text-neutral-700"
+                href="https://snaps.metamask.io/snap/npm/hns-id/"
+                target="_blank"
+              >
+                Metamask Snap
               </a>
             </li>
           </ul>
